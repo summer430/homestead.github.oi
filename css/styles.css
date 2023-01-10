@@ -40,6 +40,10 @@ h1 {
     padding: 10px;
     background: transparent;
 }
+.testimonials-img{
+    width: 150px;
+    border-radius: 50%;
+}
 button, input {
     overflow: visible;
 }
